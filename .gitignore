@@ -1,0 +1,17 @@
+build/
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.dcp
+*.xpr
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.ip_user_files/
+.vscode/
+.metadata/
+Debug/
+Release/
